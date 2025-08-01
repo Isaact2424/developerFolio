@@ -208,7 +208,7 @@ const bigProjects = {
  subtitle: "Some Data Analysis projects I've worked on.",
  projects: [
    {
-     image: require("./assets/images/creditcardinsights.png"), // add an image to assets/images
+     image: require("./assets/images/ccsi.png"), // add an image to assets/images
      projectName: "Credit Card Spending Insights",
      projectDesc:
        "A data analysis project using SQL and Python to explore and visualize trends in credit card transactions. It includes visual dashboards and analytical commentary. Check it ourt on my GitHub!",
