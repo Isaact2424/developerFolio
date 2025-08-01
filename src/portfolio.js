@@ -132,7 +132,7 @@ const educationInfo = {
    },
    {
      schoolName: "Arizona State University",
-     logo: require("./assets/images/Asu.jpg"),
+     logo: require("./assets/images/Asu.jpeg"),
      subHeader: "Bachelor of Science in Computer Science",
      duration: "August 2025 - May 2027",
      desc: "Pursuing a Bachelors in Data Science with a focus on Machine Learning.",
@@ -240,7 +240,7 @@ const achievementSection = {
      title: "UC Davis SQL for Data Science",
      subtitle:
        "Completed a university-level course on SQL fundamentals, data filtering, joining, aggregation, and real-world query building as part of the Data Science specialization.",
-     image: require("./assets/images/certificate.png"),
+     image: require("./assets/images/Certificate.png"),
      imageAlt: "UC Davis Logo",
      footerLink: [
        {
