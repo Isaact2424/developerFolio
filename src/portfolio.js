@@ -174,7 +174,7 @@ const workExperiences = {
    {
      role: "Team Lead & Instructor",
      company: "Code Ninjas",
-     companylogo: require("./assets/images/Code-Ninjas-Logo.jpg"),
+     companylogo: require("./assets/images/cn.png"),
      date: "August 2024 – Present",
      desc: "Lead instructor and site coordinator at a youth coding center focused on STEM education and game development using platforms like Roblox Studio and Unity.",
      descBullets: [
