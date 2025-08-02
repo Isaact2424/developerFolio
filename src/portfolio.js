@@ -211,7 +211,7 @@ const bigProjects = {
      image: require("./assets/images/ccsi.png"), // add an image to assets/images
      projectName: "Credit Card Spending Insights",
      projectDesc:
-       "A data analysis project using SQL and Python to explore and visualize trends in credit card transactions. It includes visual dashboards and analytical commentary. Check it ourt on my GitHub!",
+       "A data analysis project using SQL and Python to explore and visualize trends in credit card transactions. It includes visual dashboards and analytical commentary. Check it out on my GitHub!",
      footerLinks: [
        {
          name: "GitHub",
