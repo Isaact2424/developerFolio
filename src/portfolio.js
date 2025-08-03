@@ -126,7 +126,7 @@ const educationInfo = {
      duration: "January 2023 - May 2025",
      desc: "Honors Student with a focus on Computer Science and Data Analysis.",
      descBullets: [
-       "Although it did not get completed, I worked with the School Library on a project to rework the current library website. This included a complete redesign of the website, as well as the implementation of a new search feature that allows students to more easily find books and resources.",
+       "Although it did not get completed due to funding issues, I worked with the School Library on a project to rework the current library website. This included a complete redesign of the website, as well as the implementation of a new search feature that allows students to more easily find books and resources.",
       
      ]
    },
@@ -196,7 +196,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
- display: true // Set false to hide this section, defaults to true
+ display: false// Set false to hide this section, defaults to true
 };
 
 
